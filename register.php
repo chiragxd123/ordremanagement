@@ -90,7 +90,7 @@
             <div class="form-group">
                 <textarea class="form-control" name="address" placeholder="Address:"></textarea>
             </div>
-
+ 
             <div class="form-group">
                 <input type="radio" name="gender" value="Male">
                 <label for="male">Male</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -106,15 +106,15 @@
             <div class="form-group">
                 <input type="password" class="form-control" name="ConfirmPassword" placeholder="Confirm Password:">
             </div>
-            <center>
                 <div class="form-group">
+            <center>
                     <input type="submit" class="btn btn-primary" value="Register" name="submit">
                 </div>
             </center>
         </form>
         <div>
             <div>
-                <p>Already Registered <a href="login.php">Login Here</a></p>
+                <p>Already Registered<a href="login.php">Login Here</a></p>
             </div>
         </div>
     </div>

@@ -1,0 +1,53 @@
+body {
+    padding: 60px;
+    background-image: url(images/back.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    overflow-y: hidden;
+
+
+
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+    box-shadow: rgba(rgb(0, 0, 0)0px 7px 30px 0px);
+    border: 1px solid rgb(133, 129, 129);
+    border-radius: 20px;
+
+    /* ---------------- */
+    background: rgba(255, 255, 255, 0.15);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(0px);
+    -webkit-backdrop-filter: blur(0px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+
+
+
+
+
+}
+
+
+
+form {
+    color: aliceblue;
+}
+
+.form-group {
+    margin-bottom: 30px;
+}
+
+head {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    color: white;
+}
+
+label {
+    color: white;
+}
